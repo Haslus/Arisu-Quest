@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor Arisu Final","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"Portrait_Arisu","traits":[{"code":31,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Arisu","nickname":"The Hero of Light","note":"","profile":"The hero of light. Going on a journey."},
-{"id":2,"battlerName":"Actor2_1","characterIndex":5,"characterName":"Actor Arisu Final","classId":2,"equips":[6,0,2,3,0],"faceIndex":0,"faceName":"Momoi_Icon","traits":[{"code":31,"dataId":1,"value":1},{"code":34,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Momoi","nickname":"The Rogue","note":"","profile":"Devius rogue trined if finesse she really doesn't have"},
+{"id":2,"battlerName":"Actor2_1","characterIndex":5,"characterName":"Actor Arisu Final","classId":2,"equips":[6,0,2,3,0],"faceIndex":0,"faceName":"Momoi_Icon","traits":[{"code":31,"dataId":1,"value":1},{"code":34,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Momoi","nickname":"The Rogue","note":"","profile":"Devious rogue trined if finesse she really doesn't have."},
 {"id":3,"battlerName":"Actor3_8","characterIndex":6,"characterName":"Midori","classId":3,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"Midori_Sprite","traits":[],"initialLevel":1,"maxLevel":99,"name":"Midori","nickname":"The Wizard","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuzu","nickname":"The Priestess","note":"","profile":""}
+{"id":4,"battlerName":"Actor2_7","characterIndex":2,"characterName":"Midori","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuzu","nickname":"The Priestess","note":"","profile":""}
 ]
